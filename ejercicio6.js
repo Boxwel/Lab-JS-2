@@ -10,5 +10,5 @@ function contarPalabras(texto) {
   return contador;
 }
 
-let texto = prompt("Escribe palabras: ");
+let texto = prompt("Digita palabras: ");
 console.log("Numero de palabras: " + contarPalabras(texto));
